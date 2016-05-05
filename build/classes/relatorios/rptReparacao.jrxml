@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="rptReparacao" language="groovy" pageWidth="595" pageHeight="842" columnWidth="535" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="6fec534b-9af8-4fc0-9a49-619eced09a4e">
+	<property name="ireport.zoom" value="1.0"/>
+	<property name="ireport.x" value="0"/>
+	<property name="ireport.y" value="0"/>
+	<style name="Title" fontName="Arial" fontSize="26" isBold="true" pdfFontName="Helvetica-Bold"/>
+	<style name="SubTitle" forecolor="#666666" fontName="Arial" fontSize="18"/>
+	<style name="Column header" forecolor="#666666" fontName="Arial" fontSize="12" isBold="true"/>
+	<style name="Detail" fontName="Arial" fontSize="12"/>
+	<parameter name="parameter1" class="java.lang.String"/>
+	<queryString language="SQL">
+		<![CDATA[select * from arquivo]]>
+	</queryString>
+	<field name="marca" class="java.lang.String">
+		<fieldDescription><![CDATA[]]></fieldDescription>
+	</field>
+	<field name="modelo" class="java.lang.String">
+		<fieldDescription><![CDATA[]]></fieldDescription>
+	</field>
+	<field name="matricula" class="java.lang.String">
+		<fieldDescription><![CDATA[]]></fieldDescription>
+	</field>
+	<field name="proprietario" class="java.lang.String">
+		<fieldDescription><![CDATA[]]></fieldDescription>
+	</field>
+	<field name="trabalho" class="java.lang.String">
+		<fieldDescription><![CDATA[]]></fieldDescription>
+	</field>
+	<field name="observacao" class="java.lang.String">
+		<fieldDescription><![CDATA[]]></fieldDescription>
+	</field>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<title>
+		<band height="210" splitType="Stretch">
+			<staticText>
+				<reportElement x="13" y="87" width="105" height="18" uuid="3175fc09-69ab-4281-8263-a4fd1d5cef4a"/>
+				<textElement>
+					<font size="14" isBold="true"/>
+				</textElement>
+				<text><![CDATA[Auto Polipo, Lda]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="13" y="105" width="184" height="20" uuid="88b1ffcb-03de-4ae1-94cc-573a25ff6d43"/>
+				<textElement>
+					<font size="12"/>
+				</textElement>
+				<text><![CDATA[Av Patrice Lumumba 670]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="13" y="125" width="133" height="19" uuid="7f0c2e49-ed71-441d-b9f1-3d9defcd6f36"/>
+				<textElement>
+					<font size="12"/>
+				</textElement>
+				<text><![CDATA[Maputo, Matola]]></text>
+			</staticText>
+			<rectangle>
+				<reportElement x="276" y="128" width="261" height="72" uuid="72ede708-f998-4368-beed-3de162700b4d"/>
+			</rectangle>
+			<textField>
+				<reportElement style="Detail" x="294" y="144" width="197" height="15" uuid="5d00767d-984f-4348-8d16-ecf849b4f1f4"/>
+				<textElement>
+					<font isBold="true"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{proprietario}]]></textFieldExpression>
+			</textField>
+		</band>
+	</title>
+	<pageHeader>
+		<band splitType="Stretch"/>
+	</pageHeader>
+	<columnHeader>
+		<band height="95" splitType="Stretch">
+			<line>
+				<reportElement positionType="FixRelativeToBottom" x="0" y="35" width="555" height="1" uuid="3000c3e6-396e-4d66-a605-0d5a15bdcd0c"/>
+				<graphicElement>
+					<pen lineWidth="0.5" lineColor="#999999"/>
+				</graphicElement>
+			</line>
+			<staticText>
+				<reportElement style="Column header" x="13" y="53" width="92" height="15" uuid="8e04ce00-5075-44e5-9ea1-bfa60098cc1e"/>
+				<text><![CDATA[Marca]]></text>
+			</staticText>
+			<staticText>
+				<reportElement style="Column header" x="133" y="53" width="92" height="15" uuid="a7edf30f-06c4-4db7-8d1c-3533feabca5f"/>
+				<text><![CDATA[Modelo]]></text>
+			</staticText>
+			<staticText>
+				<reportElement style="Column header" x="276" y="53" width="92" height="15" uuid="b07cdfc8-6a21-4e2a-9cba-5a6b6a5d3f63"/>
+				<text><![CDATA[Matricula]]></text>
+			</staticText>
+			<staticText>
+				<reportElement style="SubTitle" x="159" y="14" width="274" height="22" uuid="2fac5c37-f8f4-4524-b2f4-a2234f546a08"/>
+				<text><![CDATA[Relatorio de reparação]]></text>
+			</staticText>
+			<textField>
+				<reportElement style="Detail" x="13" y="68" width="92" height="15" uuid="3cb2858f-05e0-48a1-9f47-d3a4e60a2df8"/>
+				<textFieldExpression><![CDATA[$F{marca}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement style="Detail" x="133" y="68" width="92" height="15" uuid="87643b11-d42a-49fc-984e-2aa3e8bcf2ad"/>
+				<textFieldExpression><![CDATA[$F{modelo}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement style="Detail" x="276" y="68" width="92" height="15" uuid="46daed94-0bfa-4b97-999c-599e671925a9"/>
+				<textFieldExpression><![CDATA[$F{matricula}]]></textFieldExpression>
+			</textField>
+			<line>
+				<reportElement x="2" y="94" width="551" height="1" uuid="dd03a6f7-1fab-4279-92d3-d58bae93efc3"/>
+			</line>
+		</band>
+	</columnHeader>
+	<detail>
+		<band height="242" splitType="Stretch">
+			<textField>
+				<reportElement style="Detail" x="13" y="146" width="294" height="83" uuid="0606e926-def8-467f-bb4c-f6c84d7d0b21"/>
+				<textFieldExpression><![CDATA[$F{observacao}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement style="Detail" x="13" y="29" width="294" height="58" uuid="9847092c-7b0e-4506-a691-957efb86ce2c"/>
+				<textFieldExpression><![CDATA[$F{trabalho}]]></textFieldExpression>
+			</textField>
+			<staticText>
+				<reportElement style="Column header" x="13" y="13" width="146" height="16" uuid="c6367e59-0a66-48de-8419-92531a51fc85"/>
+				<text><![CDATA[Trabalho realizado]]></text>
+			</staticText>
+			<staticText>
+				<reportElement style="Column header" x="13" y="131" width="92" height="15" uuid="c121317b-473e-49c0-9909-83e344290422"/>
+				<text><![CDATA[Observacao]]></text>
+			</staticText>
+		</band>
+	</detail>
+	<columnFooter>
+		<band height="11" splitType="Stretch">
+			<line>
+				<reportElement positionType="FixRelativeToBottom" x="0" y="3" width="555" height="1" uuid="9246225c-bd2e-491f-a8a0-6b0bacbdfd77"/>
+				<graphicElement>
+					<pen lineWidth="0.5" lineColor="#999999"/>
+				</graphicElement>
+			</line>
+		</band>
+	</columnFooter>
+	<pageFooter>
+		<band height="36" splitType="Stretch">
+			<textField>
+				<reportElement style="Column header" x="433" y="0" width="80" height="20" uuid="386cdf82-5c2f-4739-ad24-656a13ba1ae5"/>
+				<textElement textAlignment="Right">
+					<font size="10" isBold="false"/>
+				</textElement>
+				<textFieldExpression><![CDATA["Page "+$V{PAGE_NUMBER}+" of"]]></textFieldExpression>
+			</textField>
+			<textField evaluationTime="Report">
+				<reportElement style="Column header" x="513" y="0" width="40" height="20" uuid="3e66b699-ce8e-408f-96d0-49e4fa3f7979"/>
+				<textElement>
+					<font size="10" isBold="false"/>
+				</textElement>
+				<textFieldExpression><![CDATA[" " + $V{PAGE_NUMBER}]]></textFieldExpression>
+			</textField>
+			<textField pattern="EEEEE dd MMMMM yyyy">
+				<reportElement style="Column header" x="0" y="0" width="197" height="20" uuid="60d32f67-24df-4989-a163-31ed6a598bd2"/>
+				<textElement>
+					<font size="10" isBold="false"/>
+				</textElement>
+				<textFieldExpression><![CDATA[new java.util.Date()]]></textFieldExpression>
+			</textField>
+		</band>
+	</pageFooter>
+	<summary>
+		<band splitType="Stretch"/>
+	</summary>
+</jasperReport>

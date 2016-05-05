@@ -1,0 +1,1239 @@
+Login: Usuario - Inercio Belton Hora: 21:43:03 Data: 22/05/2015
+Foram alterados os dados do Usuario 'Mr. Belton'! Hora: 21:43:35 Data: 22/05/2015
+O usuario 'sdfukhds' foi adicionado! Hora: 21:44:05 Data: 22/05/2015
+O usuario 'sdfukhds' foi removido! Hora: 21:44:13 Data: 22/05/2015
+Login: Usuario - Inercio Belton Hora: 21:46:02 Data: 22/05/2015
+Login: Usuario - Inercio Belton Hora: 21:49:36 Data: 22/05/2015
+Login: Usuario - Inercio Belton Hora: 21:51:41 Data: 22/05/2015
+Login: Usuario - Inercio Belton Hora: 21:53:27 Data: 22/05/2015
+Login: Usuario - Inercio Belton Hora: 21:55:48 Data: 22/05/2015
+Login: Usuario - Inercio Belton Hora: 21:58:14 Data: 22/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 21:58:30 Data: 22/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 22:09:04 Data: 22/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 22:28:24 Data: 22/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 22:28:32 Data: 22/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 22:29:40 Data: 22/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 22:29:51 Data: 22/05/2015
+O acessorio 'Calços' foi adicionado! Hora: 22:30:24 Data: 22/05/2015
+Foram alterados dados do acessorio 'Calços'! Hora: 22:30:38 Data: 22/05/2015
+O acessorio 'Calços' foi apagado! Hora: 22:30:55 Data: 22/05/2015
+Foram alterados dados do acessorio 'Lampadas'! Hora: 22:31:30 Data: 22/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 22:32:22 Data: 22/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 22:46:33 Data: 22/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 23:15:00 Data: 22/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Mr. Belton Hora: 23:22:25 Data: 22/05/2015
+Logout: Usuario - Utilizador - Mr. Belton  Hora: 23:22:42 Data: 22/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 23:30:19 Data: 22/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 23:30:38 Data: 22/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 23:41:21 Data: 22/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 23:41:31 Data: 22/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 23:42:13 Data: 22/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 23:42:18 Data: 22/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 23:43:04 Data: 22/05/2015
+O arquivo ''15,correspondente a viatura: Nissan, modelo: Civilian, matricula: S, pertencente ao proprietario 'Autumn Tatics'' foi removido! Hora: 23:43:17 Data: 22/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 23:43:51 Data: 22/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 23:44:57 Data: 22/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 00:05:17 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 00:05:28 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 00:06:37 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 00:07:26 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 00:09:29 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 00:12:58 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 00:13:22 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 00:14:18 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 00:14:54 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 00:15:15 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 00:15:30 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 00:16:53 Data: 23/05/2015
+Cliente Removido! Hora: 00:17:12 Data: 23/05/2015
+Cliente Adicionado! Hora: 00:17:42 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 00:20:31 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 00:21:03 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 00:22:55 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 00:25:26 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 00:25:57 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 00:26:59 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 00:28:13 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 00:28:49 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 00:29:04 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 00:29:26 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 00:30:03 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 00:31:16 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 00:31:40 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 00:32:16 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 00:32:31 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 00:33:08 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 00:33:25 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 00:34:03 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 00:34:20 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 00:34:49 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 00:34:58 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 00:35:20 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 00:35:33 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 00:35:57 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 00:36:10 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 00:36:45 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 00:37:55 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 00:38:37 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 00:39:15 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 00:47:31 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 00:47:51 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 00:48:29 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 00:48:51 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 00:49:36 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 00:50:01 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 00:50:18 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 00:50:58 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 00:51:16 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 00:51:34 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 00:52:38 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 00:53:05 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 00:54:31 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 00:55:06 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 00:55:30 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 00:55:49 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 00:56:21 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 00:57:07 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 00:58:03 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 00:59:34 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 00:59:51 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 00:59:59 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 01:01:27 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 01:01:43 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 01:02:06 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 01:02:31 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 01:03:03 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 01:03:17 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 01:03:53 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 01:04:13 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 01:04:35 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 01:04:46 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 01:05:19 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 01:05:44 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 01:06:05 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 01:06:21 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 01:06:43 Data: 23/05/2015
+Viatura Editada! Hora: 10:15:26 Data: 23/05/2015
+Viatura Registrada! Hora: 10:16:19 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 10:37:27 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 10:39:59 Data: 23/05/2015
+Viatura Editada! Hora: 10:40:23 Data: 23/05/2015
+Viatura Editada! Hora: 10:40:35 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 10:42:26 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 10:42:46 Data: 23/05/2015
+Viatura Editada! Hora: 10:42:57 Data: 23/05/2015
+Viatura Editada! Hora: 10:47:58 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 10:58:22 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 11:07:18 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 11:14:50 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 11:20:02 Data: 23/05/2015
+Viatura Editada! Hora: 11:20:14 Data: 23/05/2015
+Viatura Editada! Hora: 11:20:38 Data: 23/05/2015
+Viatura Editada! Hora: 11:23:01 Data: 23/05/2015
+Viatura Editada! Hora: 11:25:34 Data: 23/05/2015
+Viatura Editada! Hora: 11:29:58 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 11:34:08 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 11:34:34 Data: 23/05/2015
+Viatura Editada! Hora: 11:34:44 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 11:39:06 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 11:39:28 Data: 23/05/2015
+Viatura Editada! Hora: 11:39:33 Data: 23/05/2015
+Viatura Editada! Hora: 11:39:40 Data: 23/05/2015
+Viatura Editada! Hora: 11:39:54 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 11:40:58 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 11:41:23 Data: 23/05/2015
+Viatura Editada! Hora: 11:41:28 Data: 23/05/2015
+Viatura Editada! Hora: 11:41:50 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 11:46:04 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 11:46:27 Data: 23/05/2015
+Viatura Editada! Hora: 11:46:32 Data: 23/05/2015
+Viatura Editada! Hora: 11:46:39 Data: 23/05/2015
+Viatura Editada! Hora: 11:46:59 Data: 23/05/2015
+Viatura Editada! Hora: 11:47:11 Data: 23/05/2015
+Viatura Editada! Hora: 11:47:21 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 11:48:53 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 11:49:13 Data: 23/05/2015
+Viatura Editada! Hora: 11:49:18 Data: 23/05/2015
+Viatura Editada! Hora: 11:49:29 Data: 23/05/2015
+Viatura Editada! Hora: 11:49:41 Data: 23/05/2015
+Viatura Editada! Hora: 11:50:04 Data: 23/05/2015
+Viatura Editada! Hora: 11:50:12 Data: 23/05/2015
+Viatura Editada! Hora: 11:50:23 Data: 23/05/2015
+Viatura Editada! Hora: 11:50:32 Data: 23/05/2015
+Viatura Editada! Hora: 11:50:44 Data: 23/05/2015
+Viatura Editada! Hora: 11:50:50 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 11:53:29 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 11:53:47 Data: 23/05/2015
+Viatura Editada! Hora: 11:53:55 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 11:54:56 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 11:55:19 Data: 23/05/2015
+Viatura Editada! Hora: 11:55:50 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 11:56:42 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 11:58:01 Data: 23/05/2015
+Viatura Editada! Hora: 11:58:06 Data: 23/05/2015
+Viatura Editada! Hora: 11:58:25 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 12:06:27 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 12:06:49 Data: 23/05/2015
+Viatura Editada! Hora: 12:06:54 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 12:08:48 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 12:09:11 Data: 23/05/2015
+Viatura Editada! Hora: 12:09:39 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 12:14:16 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 12:14:35 Data: 23/05/2015
+Viatura Editada! Hora: 12:14:41 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 12:15:22 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 12:15:38 Data: 23/05/2015
+Viatura Editada! Hora: 12:15:42 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 12:16:33 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 12:16:49 Data: 23/05/2015
+Viatura Editada! Hora: 12:16:59 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 12:19:08 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 12:19:29 Data: 23/05/2015
+A viatura 'de marca: Honda, modelo: Accord, matricula: www, percentecente ao proprietario: 'rozay'' foi registrada ! Hora: 12:20:40 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 12:22:03 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 12:22:55 Data: 23/05/2015
+A viatura 'de marca: Audi, modelo: A3, matricula: 666, percentecente ao proprietario: 'inercio'' foi registrada ! Hora: 12:23:09 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 12:23:50 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 12:24:08 Data: 23/05/2015
+A viatura 'de marca: BMW, modelo: 6 Series, matricula: lkhlk, percentecente ao proprietario: 'inercio'' foi registrada ! Hora: 12:24:27 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 12:26:54 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 12:27:10 Data: 23/05/2015
+A viatura 'de marca: Mazda, modelo: Atenza, matricula: khhghk, percentecente ao proprietario: 'Douglas'' foi registrada ! Hora: 12:27:34 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 12:43:08 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 12:43:31 Data: 23/05/2015
+A viatura 'de marca: Honda, modelo: Accord, matricula: ABU-526-MP, percentecente ao proprietario: 'wilson Mafas'' foi registrada ! Hora: 12:44:00 Data: 23/05/2015
+A viatura 'de marca: Honda, modelo: Accord, matricula: ABU-526-MP, percentecente ao proprietario: 'wilson Mafas'' foi registrada ! Hora: 12:45:31 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 12:47:48 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 12:48:40 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 12:51:07 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 12:53:06 Data: 23/05/2015
+A viatura 'de marca: Honda, modelo: Accord, matricula: ___-___-__, percentecente ao proprietario: 'wilson Mafas'' foi registrada ! Hora: 12:53:22 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 12:58:04 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 12:58:22 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 12:59:43 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 13:00:38 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 13:00:59 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 13:01:51 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 13:02:22 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 13:03:27 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 13:04:14 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 13:05:11 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 13:05:49 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 13:06:26 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 13:07:59 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 13:08:22 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 13:10:35 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 13:11:00 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 13:11:12 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 13:13:42 Data: 23/05/2015
+A viatura 'de marca: Toyota, modelo: Avensis, matricula: ___-___-__, percentecente ao proprietario: ' '' foi registrada ! Hora: 13:14:37 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 13:20:00 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 13:20:16 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 13:23:27 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 13:23:51 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 13:26:26 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 13:26:43 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 13:27:56 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 13:28:16 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 13:29:37 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 13:29:55 Data: 23/05/2015
+A viatura 'de marca: Nissan, modelo: Atlas, matricula: ___-___-__, percentecente ao proprietario: 'wilson Mafas'' foi registrada ! Hora: 13:30:26 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 13:36:30 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 13:36:47 Data: 23/05/2015
+A viatura 'de marca: Honda, modelo: Fit, matricula: ___-___-__, percentecente ao proprietario: 'wilson Mafas'' foi registrada ! Hora: 13:37:29 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 13:43:01 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 13:46:01 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 13:48:04 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 13:48:21 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 13:50:07 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 13:50:23 Data: 23/05/2015
+A viatura 'de marca: Nissan, modelo: Atlas, matricula: ___-___-__, percentecente ao proprietario: 'wilson Mafas'' foi registrada ! Hora: 13:50:48 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 13:52:55 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 13:53:15 Data: 23/05/2015
+A viatura 'de marca: Nissan, modelo: Atlas, matricula: ___-___-__, percentecente ao proprietario: 'inercio'' foi registrada ! Hora: 13:53:35 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 13:56:52 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 13:57:10 Data: 23/05/2015
+A viatura 'de marca: Nissan, modelo: Atlas, matricula: ___-___-__, percentecente ao proprietario: 'rozay'' foi registrada ! Hora: 14:03:00 Data: 23/05/2015
+A viatura 'de marca: Nissan, modelo: Atlas, matricula: ___-___-__, percentecente ao proprietario: 'rozay'' foi registrada ! Hora: 14:03:13 Data: 23/05/2015
+A viatura 'de marca: Nissan, modelo: Atlas, matricula: ___-___-__, percentecente ao proprietario: 'rozay'' foi registrada ! Hora: 14:03:24 Data: 23/05/2015
+A viatura 'de marca: Nissan, modelo: Atlas, matricula: ___-___-__, percentecente ao proprietario: 'rozay'' foi registrada ! Hora: 15:06:19 Data: 23/05/2015
+A viatura 'de marca: Nissan, modelo: Atlas, matricula: ___-___-__, percentecente ao proprietario: 'rozay'' foi registrada ! Hora: 15:06:25 Data: 23/05/2015
+A viatura 'de marca: Nissan, modelo: Atlas, matricula: ___-___-__, percentecente ao proprietario: 'rozay'' foi registrada ! Hora: 15:06:27 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 15:10:42 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 15:12:07 Data: 23/05/2015
+A viatura 'de marca: Nissan, modelo: Atlas, matricula: ABU-526-MP, percentecente ao proprietario: 'rozay'' foi registrada ! Hora: 15:13:14 Data: 23/05/2015
+A viatura 'de marca: Subaru, modelo: Impreza ANESIS, matricula: ABU-527-MP, percentecente ao proprietario: 'wilson Mafas'' foi registrada ! Hora: 15:14:29 Data: 23/05/2015
+A viatura 'de marca: Mazda, modelo: Atenza, matricula: ABU-526-MP, percentecente ao proprietario: 'wilson Mafas'' foi registrada ! Hora: 15:15:22 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 15:23:13 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 15:23:29 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 15:28:33 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 15:29:04 Data: 23/05/2015
+O arquivo ''13,correspondente a viatura: Toyota, modelo: Avensis, matricula: MJ1, pertencente ao proprietario 'wilson Mafas'' foi imprimido! Hora: 15:29:21 Data: 23/05/2015
+O arquivo ''8,correspondente a viatura: Toyota, modelo: Avensis, matricula: cvc, pertencente ao proprietario 'Autumn Tatics'' foi imprimido! Hora: 15:29:33 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 15:31:01 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 15:32:59 Data: 23/05/2015
+O acessorio 'Calços' foi adicionado! Hora: 15:34:12 Data: 23/05/2015
+Viatura Editada! Hora: 16:01:59 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 16:04:08 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 21:01:43 Data: 23/05/2015
+A viatura 'de marca: Mazda, modelo: Cx-7, matricula: ABU-526-MP, percentecente ao proprietario: 'rozay'' foi registrada ! Hora: 21:02:12 Data: 23/05/2015
+Viatura Editada! Hora: 21:02:35 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 21:05:02 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 21:08:50 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 21:11:38 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 21:11:55 Data: 23/05/2015
+Viatura Editada! Hora: 21:12:09 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 21:15:42 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 21:16:08 Data: 23/05/2015
+Viatura Editada! Hora: 21:16:20 Data: 23/05/2015
+Viatura Editada! Hora: 21:16:32 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 21:17:25 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 21:17:41 Data: 23/05/2015
+Viatura Editada! Hora: 21:17:50 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 21:19:18 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 21:19:34 Data: 23/05/2015
+Viatura Editada! Hora: 21:19:38 Data: 23/05/2015
+Viatura Editada! Hora: 21:19:49 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 21:21:19 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 21:22:08 Data: 23/05/2015
+Viatura Editada! Hora: 21:22:16 Data: 23/05/2015
+Viatura Editada! Hora: 21:22:30 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 21:22:41 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 21:24:44 Data: 23/05/2015
+Viatura Editada! Hora: 21:24:56 Data: 23/05/2015
+Viatura Editada! Hora: 21:25:12 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 21:26:15 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 21:27:51 Data: 23/05/2015
+Viatura Editada! Hora: 21:27:55 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 21:28:09 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 21:28:45 Data: 23/05/2015
+Viatura Editada! Hora: 21:28:50 Data: 23/05/2015
+Viatura Editada! Hora: 21:28:55 Data: 23/05/2015
+Viatura Editada! Hora: 21:29:01 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 21:30:46 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 21:31:10 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 21:32:56 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 21:33:18 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 21:34:52 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 21:35:53 Data: 23/05/2015
+Viatura Editada! Hora: 21:36:01 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 21:36:19 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 21:36:59 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 21:37:08 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 21:39:15 Data: 23/05/2015
+Viatura Editada! Hora: 21:40:03 Data: 23/05/2015
+Viatura Editada! Hora: 21:40:17 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 21:42:16 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 21:42:33 Data: 23/05/2015
+Viatura Editada! Hora: 21:42:42 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 21:43:35 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 21:44:21 Data: 23/05/2015
+Viatura Editada! Hora: 21:44:43 Data: 23/05/2015
+Viatura Editada! Hora: 21:44:50 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 22:19:00 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 22:19:16 Data: 23/05/2015
+Viatura Editada! Hora: 22:19:40 Data: 23/05/2015
+Viatura Editada! Hora: 22:19:48 Data: 23/05/2015
+Viatura Editada! Hora: 22:19:55 Data: 23/05/2015
+A viatura 'de marca: Honda, modelo: Accord, matricula: ABU-289-MP, percentecente ao proprietario: 'inercio'' foi registrada ! Hora: 22:20:52 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 22:21:12 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 22:21:28 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 22:24:37 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 22:25:14 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 22:28:37 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 22:28:56 Data: 23/05/2015
+A viatura 'de marca: Nissan, modelo: Atlas, matricula: ABU-289-MP, percentecente ao proprietario: 'rozay'' foi registrada ! Hora: 22:29:28 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 22:29:41 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 22:30:27 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 22:31:36 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 22:31:52 Data: 23/05/2015
+Viatura Editada! Hora: 22:34:26 Data: 23/05/2015
+Viatura Editada! Hora: 22:34:45 Data: 23/05/2015
+Viatura Editada! Hora: 22:34:58 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 22:35:13 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Mr. Belton Hora: 22:35:20 Data: 23/05/2015
+Logout: Usuario - Utilizador - Mr. Belton  Hora: 22:35:33 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Usuario - Inercio Belton Hora: 22:35:38 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 22:39:01 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 22:39:15 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 22:39:17 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Utilizador - Mr. Belton Hora: 22:39:24 Data: 23/05/2015
+Logout: Usuario - Utilizador - Mr. Belton  Hora: 22:39:28 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 22:42:06 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 22:43:25 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 22:43:40 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 22:45:47 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 22:46:00 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 22:51:19 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 22:51:40 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 23:10:32 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 23:11:12 Data: 23/05/2015
+O acessorio 'Outro' foi adicionado! Hora: 23:11:54 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 23:17:34 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 23:18:01 Data: 23/05/2015
+O acessorio 'Outro' foi adicionado! Hora: 23:18:33 Data: 23/05/2015
+Foram alterados dados do acessorio 'null'! Hora: 23:18:54 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 23:47:21 Data: 23/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 23:47:43 Data: 23/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 00:13:31 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 00:14:02 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 00:19:01 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 00:20:54 Data: 24/05/2015
+O acessorio 'espelhos' foi adicionado! Hora: 00:21:23 Data: 24/05/2015
+O acessorio 'Outro' foi apagado! Hora: 00:22:19 Data: 24/05/2015
+O acessorio 'Outro' foi apagado! Hora: 00:22:24 Data: 24/05/2015
+O acessorio 'pneus' foi adicionado! Hora: 00:22:42 Data: 24/05/2015
+O arquivo ''9,correspondente a viatura: Nissan, modelo: Civilian, matricula: A, pertencente ao proprietario 'wilson Mafas'' foi removido! Hora: 00:29:59 Data: 24/05/2015
+O arquivo ''13,correspondente a viatura: Toyota, modelo: Avensis, matricula: MJ1, pertencente ao proprietario 'wilson Mafas'' foi removido! Hora: 00:30:05 Data: 24/05/2015
+O acessorio 'jantes' foi adicionado! Hora: 00:30:31 Data: 24/05/2015
+A viatura 'de marca: Toyota, modelo: Avensis, matricula: ABW-521-MP, percentecente ao proprietario: 'inercio'' foi registrada ! Hora: 00:31:02 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 00:42:05 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 08:41:53 Data: 24/05/2015
+O acessorio 'Lampadas' foi adicionado! Hora: 08:42:50 Data: 24/05/2015
+Viatura Editada! Hora: 08:43:01 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 08:45:11 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 08:45:41 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 08:48:50 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 08:49:07 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 08:52:38 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 08:52:55 Data: 24/05/2015
+Foram alterados dados do acessorio 'Lampadas'! Hora: 08:54:03 Data: 24/05/2015
+O acessorio 'Lampadas' foi apagado! Hora: 08:54:16 Data: 24/05/2015
+O acessorio 'Lampadas' foi adicionado! Hora: 08:55:01 Data: 24/05/2015
+O acessorio 'Lampadas' foi apagado! Hora: 08:55:12 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 10:01:32 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 10:02:13 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 10:04:28 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 10:04:43 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 10:05:17 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 10:05:42 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 10:06:00 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 10:08:54 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 10:15:11 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 10:15:26 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 10:21:09 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 10:21:31 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 10:25:12 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 10:25:32 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 10:35:54 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 10:36:16 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 10:37:00 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 10:37:27 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 10:39:42 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 10:40:06 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 10:40:57 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 10:44:51 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 11:00:36 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 11:01:15 Data: 24/05/2015
+Viatura Editada! Hora: 11:03:00 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 11:03:39 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 11:03:49 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 11:09:04 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 11:09:21 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 11:12:43 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 11:12:59 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 11:17:19 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 11:17:44 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 11:21:35 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 11:21:55 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 11:25:12 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 11:26:23 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 11:27:27 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 11:27:44 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 11:30:03 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 11:30:21 Data: 24/05/2015
+Login: Administrador - Inercio Belton Hora: 11:37:03 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 11:39:04 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Logout: Usuario - Administrador - Inercio Belton  Hora: 11:39:09 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 11:39:38 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 11:41:48 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 11:42:37 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 11:42:52 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 11:43:29 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 11:43:46 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 11:44:29 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 11:45:13 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 11:45:23 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 11:45:41 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 11:48:09 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 11:50:52 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 11:51:10 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 11:51:32 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 11:52:07 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 12:08:02 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 12:08:23 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 12:16:49 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 12:17:05 Data: 24/05/2015
+Foram alterados dados do acessorio 'Lampadas'! Hora: 12:18:10 Data: 24/05/2015
+Foram alterados dados do acessorio 'Lampadas'! Hora: 12:18:54 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 12:21:57 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 12:23:16 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 12:26:44 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 12:27:00 Data: 24/05/2015
+Viatura Editada! Hora: 12:27:04 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 12:30:19 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 12:30:45 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 12:32:12 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 12:32:30 Data: 24/05/2015
+Foram alterados dados do acessorio 'Lampadas'! Hora: 12:33:13 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 12:50:00 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 12:50:38 Data: 24/05/2015
+Foram alterados dados do acessorio 'Lampadas'! Hora: 12:55:31 Data: 24/05/2015
+Foram alterados dados do acessorio 'pneus'! Hora: 12:55:38 Data: 24/05/2015
+Foram alterados dados do acessorio 'pneus'! Hora: 12:55:45 Data: 24/05/2015
+Foram alterados dados do acessorio 'pneus'! Hora: 12:55:52 Data: 24/05/2015
+Foram alterados dados do acessorio 'jantes'! Hora: 12:55:59 Data: 24/05/2015
+Foram alterados dados do acessorio 'Calços'! Hora: 12:56:12 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 12:56:38 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 12:57:44 Data: 24/05/2015
+Foram alterados dados do acessorio 'pneus'! Hora: 12:57:54 Data: 24/05/2015
+Foram alterados dados do acessorio 'jantes'! Hora: 12:58:10 Data: 24/05/2015
+O acessorio 'pneus' foi apagado! Hora: 12:58:27 Data: 24/05/2015
+O acessorio 'Calços' foi apagado! Hora: 12:58:34 Data: 24/05/2015
+O acessorio 'jantes' foi apagado! Hora: 12:58:45 Data: 24/05/2015
+Foram alterados dados do acessorio 'Lampadas'! Hora: 12:58:59 Data: 24/05/2015
+O acessorio 'jantes' foi adicionado! Hora: 12:59:18 Data: 24/05/2015
+Foram alterados dados do acessorio 'jantes'! Hora: 12:59:24 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 13:09:59 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 13:10:23 Data: 24/05/2015
+Foram alterados dados do acessorio 'null'! Hora: 13:10:41 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 13:16:18 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 13:16:39 Data: 24/05/2015
+Foram alterados dados do acessorio 'espelhos'! Hora: 13:17:03 Data: 24/05/2015
+Foram alterados dados do acessorio 'jantes'! Hora: 13:17:13 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 13:23:10 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 13:23:25 Data: 24/05/2015
+Foram alterados dados do acessorio 'Lampadas'! Hora: 13:24:11 Data: 24/05/2015
+Foram alterados dados do acessorio 'jantes'! Hora: 13:24:22 Data: 24/05/2015
+Foram alterados dados do acessorio 'Lampadas'! Hora: 13:24:33 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 13:27:41 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 13:27:58 Data: 24/05/2015
+Foram alterados dados do acessorio 'Lampadas'! Hora: 13:28:23 Data: 24/05/2015
+Foram alterados dados do acessorio 'Lampadas'! Hora: 13:31:24 Data: 24/05/2015
+Foram alterados dados do acessorio 'Lampadas'! Hora: 13:32:06 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 13:35:00 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 13:35:36 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 13:37:59 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 13:38:16 Data: 24/05/2015
+Foram alterados dados do acessorio 'jantes'! Hora: 13:38:25 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 13:40:34 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 13:40:59 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 13:43:16 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 13:43:43 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 13:46:26 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 13:46:41 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 13:50:59 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 13:51:09 Data: 24/05/2015
+Foram alterados dados do acessorio 'jantes'! Hora: 13:51:29 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 13:53:51 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 13:54:02 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 13:59:51 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 14:00:13 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 14:03:32 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 14:03:47 Data: 24/05/2015
+Foram alterados dados do acessorio 'jantes'! Hora: 14:04:04 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 14:52:39 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 14:52:58 Data: 24/05/2015
+Foram alterados dados do acessorio 'Lampadas'! Hora: 19:47:12 Data: 24/05/2015
+Logout: Administrador - Inercio Belton  Hora: 19:52:42 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Utilizador - Mr. Belton Hora: 19:52:51 Data: 24/05/2015
+Logout: Utilizador - Mr. Belton  Hora: 19:53:20 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 19:53:25 Data: 24/05/2015
+A viatura 'de marca: Mercedes, modelo: SLK, matricula: ABW-574-MP, percentecente ao proprietario: 'inercio'' foi registrada ! Hora: 19:53:56 Data: 24/05/2015
+Viatura Editada! Hora: 19:57:33 Data: 24/05/2015
+Viatura Editada! Hora: 19:57:42 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 19:58:04 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 19:59:05 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 20:01:46 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 20:02:46 Data: 24/05/2015
+Viatura Editada! Hora: 20:02:53 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 20:05:54 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 20:06:10 Data: 24/05/2015
+Foram alterados dados do acessorio 'Lampadas'! Hora: 20:06:36 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 20:10:59 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 20:11:17 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 20:12:36 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 20:12:58 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 20:19:35 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 20:20:48 Data: 24/05/2015
+Foram alterados dados do acessorio 'Lampadas'! Hora: 20:24:32 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 20:24:37 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 20:24:57 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 20:26:02 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 20:26:29 Data: 24/05/2015
+Foram alterados dados do acessorio 'Lampadas'! Hora: 20:26:36 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 20:34:20 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 20:34:43 Data: 24/05/2015
+O arquivo ''17,correspondente a viatura: Toyota, modelo: Avensis, matricula: dsd, pertencente ao proprietario 'Autumn Tatics'' foi removido! Hora: 20:36:09 Data: 24/05/2015
+O arquivo ''7,correspondente a viatura: Nissan, modelo: Bluebird, matricula: sadf, pertencente ao proprietario 'Autumn Tatics'' foi removido! Hora: 20:36:16 Data: 24/05/2015
+O arquivo ''8,correspondente a viatura: Toyota, modelo: Avensis, matricula: cvc, pertencente ao proprietario 'Autumn Tatics'' foi removido! Hora: 20:36:43 Data: 24/05/2015
+O acessorio 'Calços' foi adicionado! Hora: 20:37:36 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 20:49:00 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 20:49:21 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 21:08:20 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 21:08:41 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 21:39:00 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 21:39:28 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 21:41:22 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 21:41:39 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 21:44:57 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 21:45:27 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 21:50:30 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 21:50:56 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 22:32:58 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 22:34:08 Data: 24/05/2015
+A viatura 'de marca: Lamborguini, modelo: Gallardo, matricula: AEU-127-MP, percentecente ao proprietario: 'wilson Mafas'' foi registrada ! Hora: 22:34:58 Data: 24/05/2015
+Viatura Editada! Hora: 22:36:40 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 22:37:42 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 22:55:23 Data: 24/05/2015
+Viatura Editada! Hora: 22:55:36 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 22:57:33 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 22:58:10 Data: 24/05/2015
+Viatura Editada! Hora: 22:58:45 Data: 24/05/2015
+Viatura Editada! Hora: 23:02:33 Data: 24/05/2015
+Viatura Editada! Hora: 23:02:39 Data: 24/05/2015
+Viatura Editada! Hora: 23:02:49 Data: 24/05/2015
+Viatura Editada! Hora: 23:03:06 Data: 24/05/2015
+Viatura Editada! Hora: 23:03:12 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 23:03:26 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 23:05:46 Data: 24/05/2015
+Viatura Editada! Hora: 23:05:56 Data: 24/05/2015
+Viatura Editada! Hora: 23:06:02 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 23:09:08 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 23:09:30 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 23:10:08 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 23:10:26 Data: 24/05/2015
+A viatura 'de marca: eeee, modelo: 7777, matricula: JJJ-654-dd, percentecente ao proprietario: 'inercio'' foi registrada ! Hora: 23:10:54 Data: 24/05/2015
+Viatura Editada! Hora: 23:11:03 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 23:12:21 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 23:12:38 Data: 24/05/2015
+Viatura Editada! Hora: 23:12:43 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 23:13:44 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 23:14:04 Data: 24/05/2015
+Viatura Editada! Hora: 23:14:13 Data: 24/05/2015
+Viatura Editada! Hora: 23:14:26 Data: 24/05/2015
+A viatura 'de marca: Ferrari, modelo: Atenza, matricula: ADV-448-MP, percentecente ao proprietario: 'rozay'' foi registrada ! Hora: 23:17:37 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 23:23:40 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 23:23:59 Data: 24/05/2015
+O acessorio 'Lampadas' foi adicionado! Hora: 23:25:00 Data: 24/05/2015
+O acessorio 'Lampadas' foi apagado! Hora: 23:25:33 Data: 24/05/2015
+Viatura Editada! Hora: 23:27:28 Data: 24/05/2015
+Viatura Editada! Hora: 23:29:25 Data: 24/05/2015
+Viatura Editada! Hora: 23:29:34 Data: 24/05/2015
+Viatura Editada! Hora: 23:29:44 Data: 24/05/2015
+Viatura Editada! Hora: 23:29:52 Data: 24/05/2015
+Viatura Editada! Hora: 23:30:00 Data: 24/05/2015
+Viatura Editada! Hora: 23:30:11 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 23:31:07 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 23:33:54 Data: 24/05/2015
+Viatura Editada! Hora: 23:34:02 Data: 24/05/2015
+Viatura Editada! Hora: 23:34:09 Data: 24/05/2015
+Viatura Editada! Hora: 23:34:22 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 23:36:55 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 23:37:11 Data: 24/05/2015
+Viatura Editada! Hora: 23:37:18 Data: 24/05/2015
+Viatura Editada! Hora: 23:37:29 Data: 24/05/2015
+Viatura Editada! Hora: 23:37:43 Data: 24/05/2015
+Viatura Editada! Hora: 23:37:55 Data: 24/05/2015
+Viatura Editada! Hora: 23:38:22 Data: 24/05/2015
+Viatura Editada! Hora: 23:38:31 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 23:44:06 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 23:45:10 Data: 24/05/2015
+A viatura 'de marca: Ferrari, modelo: F200, matricula: ABI-453-MP, percentecente ao proprietario: 'inercio'' foi registrada ! Hora: 23:45:45 Data: 24/05/2015
+Viatura Editada! Hora: 23:45:59 Data: 24/05/2015
+Viatura Editada! Hora: 23:46:10 Data: 24/05/2015
+Viatura Editada! Hora: 23:46:17 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 23:46:25 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 23:46:55 Data: 24/05/2015
+Viatura Editada! Hora: 23:47:06 Data: 24/05/2015
+Viatura Editada! Hora: 23:47:32 Data: 24/05/2015
+Viatura Editada! Hora: 23:47:39 Data: 24/05/2015
+Viatura Editada! Hora: 23:47:51 Data: 24/05/2015
+Viatura Editada! Hora: 23:48:32 Data: 24/05/2015
+Viatura Editada! Hora: 23:49:43 Data: 24/05/2015
+Viatura Editada! Hora: 23:50:00 Data: 24/05/2015
+Viatura Editada! Hora: 23:50:21 Data: 24/05/2015
+Viatura Editada! Hora: 23:50:32 Data: 24/05/2015
+Viatura Editada! Hora: 23:50:42 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 23:51:03 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 23:51:58 Data: 24/05/2015
+Viatura Editada! Hora: 23:52:03 Data: 24/05/2015
+Viatura Editada! Hora: 23:52:10 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 23:52:22 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 23:52:56 Data: 24/05/2015
+Viatura Editada! Hora: 23:53:02 Data: 24/05/2015
+Viatura Editada! Hora: 23:53:09 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 23:54:15 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 23:54:23 Data: 24/05/2015
+Viatura Editada! Hora: 23:54:27 Data: 24/05/2015
+Viatura Editada! Hora: 23:54:43 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 23:57:33 Data: 24/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 23:57:50 Data: 24/05/2015
+A viatura 'de marca: Nissan, modelo: Fuga, matricula: ABH-478-MP, percentecente ao proprietario: 'rozay'' foi registrada ! Hora: 23:58:22 Data: 24/05/2015
+Viatura Editada! Hora: 23:58:38 Data: 24/05/2015
+Viatura Editada! Hora: 23:58:59 Data: 24/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 00:01:30 Data: 25/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 00:01:48 Data: 25/05/2015
+Viatura Editada! Hora: 00:01:54 Data: 25/05/2015
+Viatura Editada! Hora: 00:03:28 Data: 25/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 00:11:00 Data: 25/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 00:12:21 Data: 25/05/2015
+Viatura Editada! Hora: 00:12:27 Data: 25/05/2015
+Viatura Editada! Hora: 00:16:56 Data: 25/05/2015
+Viatura Editada! Hora: 00:20:27 Data: 25/05/2015
+Viatura Editada! Hora: 00:20:43 Data: 25/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 00:24:51 Data: 25/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 00:25:07 Data: 25/05/2015
+Viatura Editada! Hora: 00:25:13 Data: 25/05/2015
+Viatura Editada! Hora: 00:25:29 Data: 25/05/2015
+O acessorio 'Filtros de Ar' foi adicionado! Hora: 00:27:17 Data: 25/05/2015
+Viatura Editada! Hora: 00:27:27 Data: 25/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 00:30:02 Data: 25/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 00:30:20 Data: 25/05/2015
+Viatura Editada! Hora: 00:30:25 Data: 25/05/2015
+Viatura Editada! Hora: 00:30:37 Data: 25/05/2015
+A viatura 'de marca: Ford, modelo: Ranger, matricula: ABW-547-MP, percentecente ao proprietario: ' '' foi registrada ! Hora: 00:31:50 Data: 25/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 00:33:34 Data: 25/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 00:33:54 Data: 25/05/2015
+A viatura 'de marca: Nissan, modelo: Atlas, matricula: FDG-744-ed, percentecente ao proprietario: ' '' foi registrada ! Hora: 00:34:31 Data: 25/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 00:35:30 Data: 25/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 00:36:35 Data: 25/05/2015
+A viatura 'de marca: Nissan, modelo: Atlas, matricula: DFD-544-dd, percentecente ao proprietario: ' '' foi registrada ! Hora: 00:36:52 Data: 25/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 00:38:28 Data: 25/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 00:40:05 Data: 25/05/2015
+O acessorio 'Calços' foi apagado! Hora: 01:01:23 Data: 25/05/2015
+Viatura Editada! Hora: 01:17:16 Data: 25/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 01:35:17 Data: 25/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 01:35:38 Data: 25/05/2015
+O acessorio 'Lampadas' foi adicionado! Hora: 09:03:36 Data: 25/05/2015
+O acessorio 'Lampadas' foi adicionado! Hora: 11:39:01 Data: 25/05/2015
+Foram alterados dados do acessorio 'Lampadas'! Hora: 11:40:05 Data: 25/05/2015
+Foram alterados dados do acessorio 'Lampadas'! Hora: 11:41:36 Data: 25/05/2015
+Foram alterados dados do acessorio 'Lampadas'! Hora: 11:41:41 Data: 25/05/2015
+O acessorio 'Lampadas' foi apagado! Hora: 11:44:19 Data: 25/05/2015
+O acessorio 'Lampadas' foi apagado! Hora: 11:44:27 Data: 25/05/2015
+O acessorio 'Lampadas' foi apagado! Hora: 11:44:57 Data: 25/05/2015
+O acessorio 'Filtros de Ar' foi apagado! Hora: 11:45:02 Data: 25/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 11:46:06 Data: 25/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 11:46:38 Data: 25/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 11:50:53 Data: 25/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 11:57:03 Data: 25/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 11:57:35 Data: 25/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - frank cumaio Hora: 12:13:01 Data: 25/05/2015
+Logout: Usuario - Administrador - frank cumaio  Hora: 12:14:42 Data: 25/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - frank cumaio Hora: 12:15:03 Data: 25/05/2015
+Login: Administrador - frank cumaio Hora: 12:17:07 Data: 25/05/2015
+Logout: Usuario - Administrador - frank cumaio  Hora: 12:20:32 Data: 25/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - frank cumaio Hora: 12:28:59 Data: 25/05/2015
+Logout: Usuario - Administrador - frank cumaio  Hora: 12:30:02 Data: 25/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - frank cumaio Hora: 12:37:08 Data: 25/05/2015
+Logout: Usuario - Administrador - frank cumaio  Hora: 12:38:36 Data: 25/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - frank cumaio Hora: 12:43:06 Data: 25/05/2015
+Foram alterados dados do acessorio 'Calços'! Hora: 12:44:03 Data: 25/05/2015
+O acessorio 'espelhos' foi apagado! Hora: 12:44:10 Data: 25/05/2015
+O acessorio 'Balatas' foi adicionado! Hora: 12:44:31 Data: 25/05/2015
+O acessorio 'Filtros de Ar' foi adicionado! Hora: 12:45:05 Data: 25/05/2015
+A viatura 'de marca: Audi, modelo: A8, matricula: ABF-541-MP, percentecente ao proprietario: 'inercio'' foi registrada ! Hora: 12:45:58 Data: 25/05/2015
+Logout: Usuario - Administrador - frank cumaio  Hora: 12:48:21 Data: 25/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Cliente Removido! Hora: 12:49:34 Data: 25/05/2015
+Cliente Removido! Hora: 12:49:44 Data: 25/05/2015
+Logout: Administrador - frank cumaio  Hora: 12:51:13 Data: 25/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Utilizador - Mr. Belton Hora: 12:51:26 Data: 25/05/2015
+Logout: Utilizador - Mr. Belton  Hora: 12:51:36 Data: 25/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 12:51:43 Data: 25/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 12:53:25 Data: 25/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - frank cumaio Hora: 12:56:12 Data: 25/05/2015
+Logout: Usuario - Administrador - frank cumaio  Hora: 12:57:43 Data: 25/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - frank cumaio Hora: 12:58:20 Data: 25/05/2015
+O usuario 'batom ryuzaki' foi adicionado! Hora: 13:00:30 Data: 25/05/2015
+O acessorio 'Oleo de Motor(Gasolina)' foi adicionado! Hora: 13:02:14 Data: 25/05/2015
+Logout: Usuario - Administrador - frank cumaio  Hora: 13:05:48 Data: 25/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - frank cumaio Hora: 13:06:21 Data: 25/05/2015
+O arquivo ''null'' foi imprimido! Hora: 13:06:45 Data: 25/05/2015
+O arquivo ''null'' foi imprimido! Hora: 13:06:52 Data: 25/05/2015
+O arquivo ''null'' foi imprimido! Hora: 13:06:52 Data: 25/05/2015
+O arquivo ''null'' foi imprimido! Hora: 13:06:58 Data: 25/05/2015
+Cliente Adicionado! Hora: 13:09:16 Data: 25/05/2015
+Cliente Editado! Hora: 13:10:23 Data: 25/05/2015
+A viatura 'de marca: Nissan, modelo: Datsun, matricula: MMJ-092-23, percentecente ao proprietario: 'Ataide chilaule'' foi registrada ! Hora: 13:11:42 Data: 25/05/2015
+Logout: Administrador - frank cumaio  Hora: 13:12:39 Data: 25/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Utilizador - Mr. Belton Hora: 13:12:46 Data: 25/05/2015
+Logout: Usuario - Utilizador - Mr. Belton  Hora: 13:13:19 Data: 25/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 17:57:45 Data: 27/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 18:00:58 Data: 27/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 18:01:27 Data: 27/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 18:02:13 Data: 27/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 18:02:51 Data: 27/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 18:03:54 Data: 27/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 18:04:23 Data: 27/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 18:06:28 Data: 27/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 18:08:22 Data: 27/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 18:08:38 Data: 27/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 18:09:10 Data: 27/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 18:13:17 Data: 27/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 18:13:27 Data: 27/05/2015
+O arquivo ''null'' foi imprimido! Hora: 18:14:46 Data: 27/05/2015
+O arquivo ''5,correspondente a viatura: Nissan, modelo: Atlas, matricula: wd, pertencente ao proprietario 'rozay'' foi removido! Hora: 18:16:56 Data: 27/05/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 18:18:56 Data: 27/05/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 07:47:12 Data: 04/06/2015
+O usuario 'elton Rango' foi removido! Hora: 07:48:55 Data: 04/06/2015
+O arquivo ''null'' foi imprimido! Hora: 07:50:57 Data: 04/06/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 07:58:02 Data: 04/06/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 07:58:32 Data: 04/06/2015
+A viatura 'de marca: Toyota, modelo: Altezza, matricula: ABU-589-MP, percentecente ao proprietario: 'inercio'' foi registrada ! Hora: 07:59:14 Data: 04/06/2015
+O arquivo ''null'' foi imprimido! Hora: 08:00:24 Data: 04/06/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 08:02:23 Data: 04/06/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 08:02:49 Data: 04/06/2015
+A viatura 'de marca: Subaru, modelo: Impreza, matricula: Abhhhh, percentecente ao proprietario: 'Douglas'' foi registrada ! Hora: 08:03:12 Data: 04/06/2015
+O arquivo ''null'' foi imprimido! Hora: 08:20:30 Data: 04/06/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 08:22:47 Data: 04/06/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 08:22:58 Data: 04/06/2015
+O arquivo ''null'' foi imprimido! Hora: 08:23:04 Data: 04/06/2015
+O arquivo ''null'' foi imprimido! Hora: 08:23:16 Data: 04/06/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 08:25:14 Data: 04/06/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 08:25:43 Data: 04/06/2015
+A viatura 'de marca: Nissan, modelo: Fairlady Z, matricula: MMMMM, percentecente ao proprietario: 'inercio'' foi registrada ! Hora: 08:25:57 Data: 04/06/2015
+O arquivo ''null'' foi imprimido! Hora: 08:26:32 Data: 04/06/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 08:29:14 Data: 04/06/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 08:29:38 Data: 04/06/2015
+A viatura 'de marca: Toyota, modelo: Altezza, matricula: iiiii, percentecente ao proprietario: 'rozay'' foi registrada ! Hora: 08:29:56 Data: 04/06/2015
+O arquivo ''null'' foi imprimido! Hora: 08:30:24 Data: 04/06/2015
+O arquivo ''null'' foi imprimido! Hora: 08:31:31 Data: 04/06/2015
+A viatura 'de marca: Mazda, modelo: Atenza, matricula: kkkkk, percentecente ao proprietario: 'wilson Mafas'' foi registrada ! Hora: 08:31:47 Data: 04/06/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 08:31:55 Data: 04/06/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 08:32:12 Data: 04/06/2015
+O arquivo ''null'' foi imprimido! Hora: 08:32:42 Data: 04/06/2015
+O arquivo ''null'' foi imprimido! Hora: 08:35:17 Data: 04/06/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 08:35:25 Data: 04/06/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 08:35:41 Data: 04/06/2015
+A viatura 'de marca: Toyota, modelo: Avensis, matricula: lllllkjkj, percentecente ao proprietario: 'rozay'' foi registrada ! Hora: 08:35:52 Data: 04/06/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 08:38:18 Data: 04/06/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 08:43:31 Data: 04/06/2015
+O arquivo ''null'' foi imprimido! Hora: 08:43:37 Data: 04/06/2015
+O arquivo ''null'' foi imprimido! Hora: 08:43:46 Data: 04/06/2015
+O arquivo ''null'' foi imprimido! Hora: 08:44:01 Data: 04/06/2015
+O arquivo ''null'' foi imprimido! Hora: 08:44:30 Data: 04/06/2015
+O arquivo ''16,correspondente a viatura: Toyota, modelo: Avensis, matricula: ael, pertencente ao proprietario 'Autumn Tatics'' foi removido! Hora: 08:45:00 Data: 04/06/2015
+O arquivo ''6,correspondente a viatura: Nissan, modelo: Atlas, matricula: df, pertencente ao proprietario 'Autumn Tatics'' foi removido! Hora: 08:45:04 Data: 04/06/2015
+O arquivo ''3,correspondente a viatura: Nissan, modelo: Datsun, matricula: mmj 95 02, pertencente ao proprietario 'wilson Mafas'' foi removido! Hora: 08:45:08 Data: 04/06/2015
+O arquivo ''2,correspondente a viatura: Nissan, modelo: Bluebird, matricula: acs 503 mc, pertencente ao proprietario 'Autumn Tatics'' foi removido! Hora: 08:45:13 Data: 04/06/2015
+O arquivo ''1,correspondente a viatura: Mazda, modelo: Atenza, matricula: dsd, pertencente ao proprietario 'rozay'' foi removido! Hora: 08:45:17 Data: 04/06/2015
+O arquivo ''34,correspondente a viatura: Toyota, modelo: Avensis, matricula: lllllkjkj, pertencente ao proprietario 'rozay'' foi removido! Hora: 08:45:27 Data: 04/06/2015
+O arquivo ''33,correspondente a viatura: Mazda, modelo: Atenza, matricula: kkkkk, pertencente ao proprietario 'wilson Mafas'' foi removido! Hora: 08:45:32 Data: 04/06/2015
+O arquivo ''null'' foi imprimido! Hora: 08:45:34 Data: 04/06/2015
+O arquivo ''32,correspondente a viatura: Toyota, modelo: Altezza, matricula: iiiii, pertencente ao proprietario 'rozay'' foi removido! Hora: 08:45:44 Data: 04/06/2015
+A viatura 'de marca: Mercedes, modelo: CLK-Class, matricula: ABU-510-MP, percentecente ao proprietario: 'inercio'' foi registrada ! Hora: 08:46:16 Data: 04/06/2015
+O arquivo ''null'' foi imprimido! Hora: 08:48:53 Data: 04/06/2015
+O arquivo ''null'' foi imprimido! Hora: 08:50:01 Data: 04/06/2015
+O acessorio 'Lampadas' foi adicionado! Hora: 08:50:43 Data: 04/06/2015
+A viatura 'de marca: Nissan, modelo: Atlas, matricula: RAA, percentecente ao proprietario: 'rozay boss'' foi registrada ! Hora: 08:50:57 Data: 04/06/2015
+O arquivo ''null'' foi imprimido! Hora: 08:51:35 Data: 04/06/2015
+O arquivo ''null'' foi imprimido! Hora: 08:51:58 Data: 04/06/2015
+A viatura 'de marca: Honda, modelo: CR-V, matricula: MMMM, percentecente ao proprietario: 'rozay'' foi registrada ! Hora: 08:53:07 Data: 04/06/2015
+O arquivo ''null'' foi imprimido! Hora: 08:54:04 Data: 04/06/2015
+O arquivo ''33,correspondente a viatura: Nissan, modelo: Atlas, matricula: RAA, pertencente ao proprietario 'rozay boss'' foi removido! Hora: 08:54:31 Data: 04/06/2015
+A viatura 'de marca: Audi, modelo: A8, matricula: LLLjjk, percentecente ao proprietario: 'Douglas'' foi registrada ! Hora: 08:54:52 Data: 04/06/2015
+A viatura 'de marca: Nissan, modelo: Bluebird, matricula: hhh, percentecente ao proprietario: 'rozay'' foi registrada ! Hora: 08:59:45 Data: 04/06/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 09:08:01 Data: 04/06/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 09:11:30 Data: 04/06/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 09:14:05 Data: 04/06/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 09:14:26 Data: 04/06/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 09:16:21 Data: 04/06/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 09:16:42 Data: 04/06/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 09:22:56 Data: 04/06/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 09:23:07 Data: 04/06/2015
+Foram alterados dados do acessorio 'Calços'! Hora: 09:23:31 Data: 04/06/2015
+Foram alterados dados do acessorio 'Balatas'! Hora: 09:23:36 Data: 04/06/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 09:29:51 Data: 04/06/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 09:30:01 Data: 04/06/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 09:33:33 Data: 04/06/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 09:33:41 Data: 04/06/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 09:36:09 Data: 04/06/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 09:36:18 Data: 04/06/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 09:38:41 Data: 04/06/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 09:38:56 Data: 04/06/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 09:40:48 Data: 04/06/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 09:41:07 Data: 04/06/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 09:42:52 Data: 04/06/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 09:43:02 Data: 04/06/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 09:45:09 Data: 04/06/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 09:45:25 Data: 04/06/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 09:47:58 Data: 04/06/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 09:48:16 Data: 04/06/2015
+Foram alterados dados do acessorio 'Lampadas'! Hora: 09:48:37 Data: 04/06/2015
+Foram alterados dados do acessorio 'jantes'! Hora: 09:48:42 Data: 04/06/2015
+Foram alterados dados do acessorio 'Calços'! Hora: 09:48:48 Data: 04/06/2015
+Foram alterados dados do acessorio 'Balatas'! Hora: 09:48:53 Data: 04/06/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 09:52:20 Data: 04/06/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 09:52:31 Data: 04/06/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 09:58:10 Data: 04/06/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 09:58:20 Data: 04/06/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 10:02:21 Data: 04/06/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 10:02:29 Data: 04/06/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 10:04:28 Data: 04/06/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 12:04:16 Data: 04/06/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 12:14:52 Data: 04/06/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 12:15:21 Data: 04/06/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 12:16:42 Data: 04/06/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 12:17:29 Data: 04/06/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 12:19:01 Data: 04/06/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 12:21:35 Data: 04/06/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 12:23:25 Data: 04/06/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 12:23:38 Data: 04/06/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 12:28:17 Data: 04/06/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 12:28:40 Data: 04/06/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 12:51:34 Data: 04/06/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 12:51:49 Data: 04/06/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 13:01:22 Data: 04/06/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 13:01:36 Data: 04/06/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 13:01:56 Data: 04/06/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 13:07:13 Data: 04/06/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 13:12:29 Data: 04/06/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 13:12:44 Data: 04/06/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 13:23:09 Data: 04/06/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 13:23:38 Data: 04/06/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 13:24:32 Data: 04/06/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 13:25:36 Data: 04/06/2015
+Login: Administrador - Inercio Belton Hora: 13:27:51 Data: 04/06/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 13:36:30 Data: 04/06/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Logout: Usuario - Administrador - Inercio Belton  Hora: 13:36:35 Data: 04/06/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 13:36:42 Data: 04/06/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 13:37:00 Data: 04/06/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 13:47:10 Data: 04/06/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 13:54:16 Data: 04/06/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 13:54:29 Data: 04/06/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 13:58:24 Data: 04/06/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 13:58:40 Data: 04/06/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 14:00:58 Data: 04/06/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 14:01:29 Data: 04/06/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 14:01:56 Data: 04/06/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 14:03:49 Data: 04/06/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 14:04:18 Data: 04/06/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 14:05:06 Data: 04/06/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 14:05:28 Data: 04/06/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 14:07:08 Data: 04/06/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 14:09:30 Data: 04/06/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 14:09:39 Data: 04/06/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 14:12:29 Data: 04/06/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 14:12:39 Data: 04/06/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 14:14:05 Data: 04/06/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 14:23:58 Data: 04/06/2015
+Logout: Usuario - Administrador - Inercio Belton  Hora: 14:25:24 Data: 04/06/2015
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 11:07:21 Data: 01/05/2016
+O arquivo ''null'' foi imprimido! Hora: 11:08:38 Data: 01/05/2016
+O arquivo ''null'' foi imprimido! Hora: 11:09:05 Data: 01/05/2016
+Logout: Administrador - Inercio Belton  Hora: 11:10:21 Data: 01/05/2016
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - frank cumaio Hora: 11:10:31 Data: 01/05/2016
+Viatura Editada! Hora: 11:10:53 Data: 01/05/2016
+Logout: Usuario - Administrador - frank cumaio  Hora: 11:12:32 Data: 01/05/2016
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - Inercio Belton Hora: 18:38:16 Data: 01/05/2016
+A viatura 'de marca: Nissan, modelo: Atlas, matricula: gkjk, percentecente ao proprietario: 'Douglas'' foi registrada ! Hora: 18:38:41 Data: 01/05/2016
+Logout: Usuario - Administrador - Inercio Belton  Hora: 18:43:57 Data: 01/05/2016
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Login: Administrador - frank cumaio Hora: 14:08:02 Data: 05/05/2016
+O arquivo ''null'' foi imprimido! Hora: 14:08:35 Data: 05/05/2016
+O arquivo ''null'' foi imprimido! Hora: 14:08:53 Data: 05/05/2016
+Logout: Usuario - Administrador - frank cumaio  Hora: 14:10:21 Data: 05/05/2016
+-------------------------------------------------------------------------------------------------------------------------------------------------
